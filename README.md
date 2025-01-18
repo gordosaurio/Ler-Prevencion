@@ -3,7 +3,7 @@ Este repositorio contiene la solución a la prueba técnica proporcionada por Le
 
 
 Instrucciones para Correr el Proyecto
-1. Requisitos Previos:
+# 1. Requisitos Previos:
 Asegúrate de tener instalados los siguientes programas:
 
 Node.js: Necesario para ejecutar el backend y frontend.
