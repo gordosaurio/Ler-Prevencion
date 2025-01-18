@@ -31,5 +31,13 @@ Luego, configura el archivo .env con los datos de la base de datos que desees us
 Inicia el servidor con el siguiente comando: npm start
 
 # 4. Fronted 
+Abre una nueva ventana en tu IDE (sin cerrar la que está ejecutando el backend) y busca la carpeta frontend del repositorio copiado.
+
+Ejecuta el siguiente comando para instalar las dependencias del frontend: npm install
+
+Luego, inicia el servidor de desarrollo de Angular con el siguiente comando: ng serve
+
+# 5. Prueba del proyecto
+Una vez que el front y el back esté corriendo, abre tu navegador y accede a la siguiente URL para ver el proyecto en funcionamiento: http://localhost:4200
 
 
